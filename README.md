@@ -22,6 +22,22 @@ The application is easy to use: simply select the languages you want to translat
 
 2. Run code and speech (have fun).
     ```
-    python main.py
+    python voice-translator-system.py
+    ```
+3. To build exe to make an app
+    ```
+    python app-builder.py
     ```
 
+### External requirements
+   ```
+   VB-Cable should be installed. 
+   ```
+
+### Running instructions
+    ```
+    After installing VB-Cable
+    On meeting started from any app
+    Select Speakers (VB-Audio Virtual Cable) in meeting app as output and select default system mic as input
+    CABLE In 16 Ch (VB-Audio Virtual Cable) will be auto set in the translator app if not set then please set from the gievn button.
+    ``` 
